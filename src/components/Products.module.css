@@ -1,0 +1,7 @@
+.cen{
+    display: grid;
+    place-items: center;
+}
+.bgc{
+    background-color: rgb(194, 190, 190);
+}
